@@ -4,7 +4,7 @@ import 'package:get_x_example/controller/language_controller.dart';
 class LoginScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    LanguageController languageController = Get.put(LanguageController());
+    // LanguageController languageController = Get.put(LanguageController());
     return Scaffold(
       appBar: AppBar(),
       body: Container(

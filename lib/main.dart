@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-      title: 'Flutter getX Demo',
+      title: 'Flutter getX example',
       translations: Translation(),
       fallbackLocale: Locale("en"), // standerd 
       theme: ThemeData(
